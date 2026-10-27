@@ -8,3 +8,4 @@ logs/
 # Local code backups
 app/*.bak
 app/*.backup-*
+app/main.py.bak-*
