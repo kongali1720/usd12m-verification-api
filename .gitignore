@@ -9,3 +9,8 @@ logs/
 app/*.bak
 app/*.backup-*
 app/main.py.bak-*
+
+# Backup files anywhere under app/
+**/*.bak
+**/*.bak-*
+**/*.backup-*
