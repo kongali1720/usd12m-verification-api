@@ -14,3 +14,8 @@ app/main.py.bak-*
 **/*.bak
 **/*.bak-*
 **/*.backup-*
+
+# Backup files anywhere under app/
+**/*.bak
+**/*.bak-*
+**/*.backup-*
